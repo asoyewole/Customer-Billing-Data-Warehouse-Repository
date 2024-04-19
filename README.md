@@ -19,4 +19,4 @@ This project focused on the construction of a data warehouse using SQL query fil
 6. **Documentation:** Generated an Entity-Relationship Diagram (ERD) to visualize the database schema, enhancing understanding and documentation of the project's architectural design.
 
 **Conclusion:**
-This project successfully demonstrated the creation of a data warehouse using SQL query files executed via a Bash script. Through meticulous execution and verification processes, all tables were created and loaded accurately, ensuring the integrity and reliability of the data warehouse. Detailed logs documenting each step of the process are provided alongside this submission, facilitating transparency and reproducibility of results.
+This project successfully demonstrated the creation of a data warehouse using SQL query files executed via a Bash script. Through meticulous execution and verification processes, all tables were created and loaded accurately, ensuring the integrity and reliability of the data warehouse. Detailed logs documenting each step of the process are provided, facilitating transparency and reproducibility of results.
